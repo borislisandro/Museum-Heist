@@ -1,1 +1,5 @@
-Museum heist project simulates a heist scenario where multiple entities, including a master thief and several ordinary thieves, interact to execute a coordinated heist. The system is designed using Java and leverages multi-threading to simulate the concurrent actions of the thieves. The different entities communicate over a network using Remote Method Invocation (RMI), ensuring distributed coordination.
+# Master Thief Project
+
+The Master Thief project simulates a heist scenario involving multiple entities, including a master thief and several ordinary thieves, working together to execute a coordinated heist. This system is developed using Java and leverages multi-threading and Remote Method Invocation (RMI) for communication between different components running on separate machines.
+
+
